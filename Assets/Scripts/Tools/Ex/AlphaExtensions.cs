@@ -33,11 +33,11 @@ static public class AlphaExtensions {
 		self.color = next;
 	}
 
-	public static void SetAlpha (this tk2dTextMesh self, float alpha) {
-		Color next = self.color;
-		next.a = Mathf.Clamp01 ( alpha );
-		self.color = next;
-	}
+	// public static void SetAlpha (this tk2dTextMesh self, float alpha) {
+	// 	Color next = self.color;
+	// 	next.a = Mathf.Clamp01 ( alpha );
+	// 	self.color = next;
+	// }
 
 	public static Color ColorTranslate ( Color a, Color b, EaseUtils.EaseType easeType, float t ) {
 		Color ret = a;
