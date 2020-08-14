@@ -1,0 +1,1423 @@
+fileFormatVersion: 2
+guid: 171f556510e044956afafacde30c595f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2148121207435717170
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_0
+  - first:
+      213: -8192198050406778791
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_1
+  - first:
+      213: 8632902410113762535
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_2
+  - first:
+      213: -4034058324418695307
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_3
+  - first:
+      213: -8320678232120247336
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_4
+  - first:
+      213: 4537058665826381563
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_5
+  - first:
+      213: 1621742971956811630
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_6
+  - first:
+      213: 1966022820394635965
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_7
+  - first:
+      213: -3053023765069254747
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_8
+  - first:
+      213: 8582626227429458721
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_9
+  - first:
+      213: 2499846427147843473
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_10
+  - first:
+      213: -559529267568888631
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_11
+  - first:
+      213: 545245458918115139
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_12
+  - first:
+      213: -1734129902829866125
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_13
+  - first:
+      213: -8184733510978016809
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_14
+  - first:
+      213: 6608030626268528298
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_15
+  - first:
+      213: -8416420256955887496
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_16
+  - first:
+      213: 7305496136583433702
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_17
+  - first:
+      213: -1116566592503309649
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_18
+  - first:
+      213: 881570196381614783
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_19
+  - first:
+      213: -3301447324415350517
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_20
+  - first:
+      213: -5191860615278049891
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_21
+  - first:
+      213: 8853965903991023321
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_22
+  - first:
+      213: -5949157338366407260
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_23
+  - first:
+      213: -3002874696308841283
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_24
+  - first:
+      213: 5800755810958362062
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_25
+  - first:
+      213: 2217260403339464651
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_26
+  - first:
+      213: 6230926800178712866
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_27
+  - first:
+      213: 4923518565790576845
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_28
+  - first:
+      213: 2356155306279007526
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_29
+  - first:
+      213: 8332939160331377023
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_30
+  - first:
+      213: 950046088718910033
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_31
+  - first:
+      213: 65707110097586159
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_32
+  - first:
+      213: 1006075394043360415
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_33
+  - first:
+      213: -348672502396500482
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_34
+  - first:
+      213: 2682970037353444782
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_35
+  - first:
+      213: 208338426120276000
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_36
+  - first:
+      213: -1065960150390368467
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_37
+  - first:
+      213: 6267206264462808932
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_38
+  - first:
+      213: 4797120151667610570
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_39
+  - first:
+      213: -6288226033346453434
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_40
+  - first:
+      213: -499237666430867884
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_41
+  - first:
+      213: -6741930655248586355
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_42
+  - first:
+      213: -3248925903800900846
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_43
+  - first:
+      213: 895352723094495871
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_44
+  - first:
+      213: 5338890834451183766
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_45
+  - first:
+      213: -4552952079255139248
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_46
+  - first:
+      213: -2735699929896003002
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_47
+  - first:
+      213: -2991244720873434330
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_48
+  - first:
+      213: -7074495855299401873
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_49
+  - first:
+      213: -898529479000777090
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_50
+  - first:
+      213: -2699457783435047300
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_51
+  - first:
+      213: -7472479854054042632
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_52
+  - first:
+      213: -4821642336875293117
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_53
+  - first:
+      213: 307777160878781817
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_54
+  - first:
+      213: -6686089468819386036
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_55
+  - first:
+      213: 3300015080226573002
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_56
+  - first:
+      213: -143904263856329305
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_57
+  - first:
+      213: 6094201364671179420
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_58
+  - first:
+      213: 2684615444296974952
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_59
+  - first:
+      213: -1403353504581153786
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_60
+  - first:
+      213: 7471487516531582798
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_61
+  - first:
+      213: -7889207522104494817
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_62
+  - first:
+      213: 1239007523222225865
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_63
+  - first:
+      213: 139563177196317480
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_64
+  - first:
+      213: 7106269752207630042
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_65
+  - first:
+      213: -2192813637908132960
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_66
+  - first:
+      213: -3599681151479463577
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_67
+  - first:
+      213: 3643803795658311989
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_68
+  - first:
+      213: 8582154957958605839
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_69
+  - first:
+      213: -967559600684666864
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_70
+  - first:
+      213: 4200209268441781808
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_71
+  - first:
+      213: -1966153252776817742
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_72
+  - first:
+      213: 4615383907808728087
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_73
+  - first:
+      213: -3176299180655960034
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_74
+  - first:
+      213: 3400139062386847589
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_75
+  - first:
+      213: -2890416528320938912
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_76
+  - first:
+      213: -309216971217115746
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_77
+  - first:
+      213: 2846631151030756185
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_78
+  - first:
+      213: 1374910971867434095
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_79
+  - first:
+      213: -2247929507099552285
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_80
+  - first:
+      213: -2792879956022136304
+    second: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_81
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 488
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c43f1d78172c38f0800000000000000
+      internalID: -559529267568888631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 488
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34785362bd9119700800000000000000
+      internalID: 545245458918115139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 488
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373717b8a022fe7e0800000000000000
+      internalID: -1734129902829866125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 488
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d96be08c3cf96e80800000000000000
+      internalID: -8184733510978016809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 488
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae33aff7d074bb50800000000000000
+      internalID: 6608030626268528298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_16
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 488
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8701ebf4e5ed23b80800000000000000
+      internalID: -8416420256955887496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 488
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed4b01b706526560800000000000000
+      internalID: 7305496136583433702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_18
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 488
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa95c599982180f0800000000000000
+      internalID: -1116566592503309649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_19
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 488
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2c5ef3c67fb3c00800000000000000
+      internalID: 881570196381614783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_20
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 488
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b092f877627ee22d0800000000000000
+      internalID: -3301447324415350517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 408
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95c20f274ec2f7b0800000000000000
+      internalID: -5191860615278049891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_22
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 408
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d62ec0541b9fda70800000000000000
+      internalID: 8853965903991023321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 408
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad03c5bbe8507da0800000000000000
+      internalID: -5949157338366407260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_24
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 408
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4a085af55a356d0800000000000000
+      internalID: -3002874696308841283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 408
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5c4f42dac608050800000000000000
+      internalID: 5800755810958362062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 408
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf869bd69a45ce10800000000000000
+      internalID: 2217260403339464651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_27
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 408
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2211d1279e2b87650800000000000000
+      internalID: 6230926800178712866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_28
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 408
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0fcf6bc0ad35440800000000000000
+      internalID: 4923518565790576845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_29
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 408
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625796284ceb2b020800000000000000
+      internalID: 2356155306279007526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 320
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152075652ed3f2d00800000000000000
+      internalID: 950046088718910033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 320
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7859cb44079e000800000000000000
+      internalID: 65707110097586159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 320
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94373f8d3c46fd00800000000000000
+      internalID: 1006075394043360415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_34
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 320
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5c5b7d434492bf0800000000000000
+      internalID: -348672502396500482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 320
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5f773b803db3520800000000000000
+      internalID: 2682970037353444782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_36
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 320
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02886f9d1ba24e200800000000000000
+      internalID: 208338426120276000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 240
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467986774e699f650800000000000000
+      internalID: 6267206264462808932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_39
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 240
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac314099c5bc29240800000000000000
+      internalID: 4797120151667610570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_40
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 240
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64065073dbbbbb8a0800000000000000
+      internalID: -6288226033346453434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 240
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456a4e9ccf95219f0800000000000000
+      internalID: -499237666430867884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 160
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213e162aa1f79e2d0800000000000000
+      internalID: -3248925903800900846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_44
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 160
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72e9b0de8eec6c00800000000000000
+      internalID: 895352723094495871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_45
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 160
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6983d026dec871a40800000000000000
+      internalID: 5338890834451183766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_46
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 160
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c0f9cd43aa0d0c0800000000000000
+      internalID: -4552952079255139248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64adc7a7867d80ad0800000000000000
+      internalID: -2735699929896003002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_48
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 160
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623931056c6fc76d0800000000000000
+      internalID: -2991244720873434330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_50
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 160
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e11ff0338c783f0800000000000000
+      internalID: -898529479000777090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_51
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 160
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ec034c279998ad0800000000000000
+      internalID: -2699457783435047300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_52
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 160
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f398d3e92b6c4890800000000000000
+      internalID: -7472479854054042632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_53
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 160
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346509c37d5161db0800000000000000
+      internalID: -4821642336875293117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_54
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 160
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975782872b1754400800000000000000
+      internalID: 307777160878781817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_55
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 160
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c415a827d0d3633a0800000000000000
+      internalID: -6686089468819386036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 106
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca46523b320ccd20800000000000000
+      internalID: 3300015080226573002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_57
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 105
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aded2f95dfb00ef0800000000000000
+      internalID: -143904263856329305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_58
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a2dea4ad3f29450800000000000000
+      internalID: 6094201364671179420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_59
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86249dbd58ba14520800000000000000
+      internalID: 2684615444296974952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec59f40a4275032e0800000000000000
+      internalID: -2148121207435717170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9583bdbf6477f4e80800000000000000
+      internalID: -8192198050406778791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 104
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4c17fb00b3ec770800000000000000
+      internalID: 8632902410113762535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 104
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fe0d9c3552408c0800000000000000
+      internalID: -4034058324418695307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbb5249b33078c80800000000000000
+      internalID: -8320678232120247336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Miner_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 104
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe60b571ded6fe30800000000000000
+      internalID: 4537058665826381563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
