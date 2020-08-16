@@ -13,26 +13,26 @@ TagManager:
   - UI
   - 
   - 
+  - terrain
+  - playerBody
+  - monsterBody
+  - 
+  - interaction
+  - 
+  - 
+  - 
+  - 
+  - platform
   - 
   - 
   - 
   - 
   - 
+  - playerBlock
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - collideWithTerrain
   - 
   - 
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2752837059
+    locked: 0
+  - name: Actor
+    uniqueID: 1146476517
+    locked: 0
+  - name: Foreground
+    uniqueID: 1028032637
     locked: 0

@@ -7,10 +7,10 @@ TextureImporter:
     second: run_0
   - first:
       213: 7030986148277175126
-    second: NES - Chip n Dale Rescue Rangers 2 - Chip n Dale_1
+    second: t_idle_0
   - first:
       213: -767445185691766734
-    second: NES - Chip n Dale Rescue Rangers 2 - Chip n Dale_2
+    second: t_idle_1
   - first:
       213: -9155930893956065989
     second: run_1
@@ -47,6 +47,39 @@ TextureImporter:
   - first:
       213: -1719569922485161895
     second: jump_0
+  - first:
+      213: -4361703761342705547
+    second: t_jump_0
+  - first:
+      213: -187835682103241531
+    second: t_run_0
+  - first:
+      213: 3732261396956502534
+    second: t_run_1
+  - first:
+      213: -5703272429048363485
+    second: t_run_2
+  - first:
+      213: 1981740668828980484
+    second: t_holdrun_0
+  - first:
+      213: 8029324339920937127
+    second: t_holdrun_1
+  - first:
+      213: -8534559385056635436
+    second: t_holdrun_2
+  - first:
+      213: 6406351067133695710
+    second: t_holdrun_3
+  - first:
+      213: -6181463510450777902
+    second: t_throw_0
+  - first:
+      213: 2965961179905320177
+    second: t_throw_1
+  - first:
+      213: 3559091867679497609
+    second: t_throw_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -77,7 +110,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -137,8 +170,8 @@ TextureImporter:
       name: run_0
       rect:
         serializedVersion: 2
-        x: 190
-        y: 328
+        x: 189
+        y: 323
         width: 20
         height: 23
       alignment: 0
@@ -158,8 +191,8 @@ TextureImporter:
       name: run_1
       rect:
         serializedVersion: 2
-        x: 211
-        y: 328
+        x: 210
+        y: 323
         width: 18
         height: 24
       alignment: 0
@@ -179,8 +212,8 @@ TextureImporter:
       name: run_2
       rect:
         serializedVersion: 2
-        x: 230
-        y: 328
+        x: 229
+        y: 323
         width: 18
         height: 23
       alignment: 0
@@ -200,8 +233,8 @@ TextureImporter:
       name: holdrun_0
       rect:
         serializedVersion: 2
-        x: 190
-        y: 298
+        x: 189
+        y: 293
         width: 18
         height: 24
       alignment: 0
@@ -221,8 +254,8 @@ TextureImporter:
       name: holdrun_1
       rect:
         serializedVersion: 2
-        x: 209
-        y: 298
+        x: 208
+        y: 293
         width: 19
         height: 24
       alignment: 0
@@ -242,8 +275,8 @@ TextureImporter:
       name: holdrun_2
       rect:
         serializedVersion: 2
-        x: 231
-        y: 298
+        x: 230
+        y: 293
         width: 17
         height: 25
       alignment: 0
@@ -263,8 +296,8 @@ TextureImporter:
       name: holdrun_3
       rect:
         serializedVersion: 2
-        x: 249
-        y: 298
+        x: 248
+        y: 293
         width: 17
         height: 24
       alignment: 0
@@ -284,8 +317,8 @@ TextureImporter:
       name: throw_0
       rect:
         serializedVersion: 2
-        x: 228
-        y: 268
+        x: 227
+        y: 263
         width: 17
         height: 24
       alignment: 0
@@ -305,8 +338,8 @@ TextureImporter:
       name: throw_1
       rect:
         serializedVersion: 2
-        x: 246
-        y: 268
+        x: 245
+        y: 263
         width: 24
         height: 20
       alignment: 0
@@ -326,8 +359,8 @@ TextureImporter:
       name: throw_2
       rect:
         serializedVersion: 2
-        x: 271
-        y: 268
+        x: 270
+        y: 263
         width: 23
         height: 17
       alignment: 0
@@ -348,7 +381,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 190
-        y: 358
+        y: 353
         width: 17
         height: 23
       alignment: 0
@@ -369,7 +402,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 208
-        y: 358
+        y: 353
         width: 17
         height: 23
       alignment: 0
@@ -389,8 +422,8 @@ TextureImporter:
       name: jump_0
       rect:
         serializedVersion: 2
-        x: 250
-        y: 358
+        x: 249
+        y: 353
         width: 20
         height: 23
       alignment: 0
@@ -402,6 +435,279 @@ TextureImporter:
       bones: []
       spriteID: 95073d3244cd228e0800000000000000
       internalID: -1719569922485161895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_idle_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 353
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653c0cc66a4139160800000000000000
+      internalID: 7030986148277175126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_idle_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 353
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23032427bac7955f0800000000000000
+      internalID: -767445185691766734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_jump_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 353
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570dea1d98d1873c0800000000000000
+      internalID: -4361703761342705547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_run_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 323
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4d71c317ca46df0800000000000000
+      internalID: -187835682103241531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_run_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 323
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ade7657f7abc330800000000000000
+      internalID: 3732261396956502534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_run_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 323
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3260b4961f7e9d0b0800000000000000
+      internalID: -5703272429048363485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_holdrun_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 293
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4051f7a73ae808b10800000000000000
+      internalID: 1981740668828980484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_holdrun_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 293
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0a26b22f3ed6f60800000000000000
+      internalID: 8029324339920937127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_holdrun_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 293
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5193315772f8980800000000000000
+      internalID: -8534559385056635436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_holdrun_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 293
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6d2fe6a5ee7e850800000000000000
+      internalID: 6406351067133695710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_throw_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 263
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0da8320b7073aa0800000000000000
+      internalID: -6181463510450777902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_throw_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 263
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4ead19af5392920800000000000000
+      internalID: 2965961179905320177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_throw_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 263
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d9400623f646130800000000000000
+      internalID: 3559091867679497609
       vertices: []
       indices: 
       edges: []

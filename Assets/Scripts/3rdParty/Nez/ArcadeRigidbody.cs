@@ -212,41 +212,41 @@ namespace Nez
 				velocity += gravity * gravityScale * CupheadTime.Delta[timeLayer];
 			}
 
-			_controller.Move ( velocity * CupheadTime.Delta[timeLayer] );
+			_controller.move ( velocity * CupheadTime.Delta[timeLayer] );
 
 			//CollisionResult collisionResult;
 			//// fetch anything that we might collide with at our new position
-			//var neighbors = Physics.boxcastBroadphaseExcludingSelf( _collider, _collider.collidesWithLayers );
-			//foreach( var neighbor in neighbors )
-			//{
-			//	// if the neighbor collider is of the same entity, ignore it
-			//	if( neighbor.entity == gameObject )
-			//	{
-			//		continue;
-			//	}
-
-			//	_collider.ClosestPointOnBounds
-
-			//	if( _collider.collidesWith( neighbor, out collisionResult ) )
-			//	{
-			//		// if the neighbor has an ArcadeRigidbody we handle full collision response. If not, we calculate things based on the
-			//		// neighbor being immovable.
-			//		var neighborRigidbody = neighbor.entity.getComponent<ArcadeRigidbody>();
-			//		if( neighborRigidbody != null )
-			//		{
-			//			processOverlap( neighborRigidbody, ref collisionResult.minimumTranslationVector );
-			//			processCollision( neighborRigidbody, ref collisionResult.minimumTranslationVector );
-			//		}
-			//		else
-			//		{
-			//			// neighbor has no ArcadeRigidbody so we assume its immovable and only move ourself
-			//			transform.position -= collisionResult.minimumTranslationVector;
-			//			var relativeVelocity = velocity;
-			//			calculateResponseVelocity( ref relativeVelocity, ref collisionResult.minimumTranslationVector, out relativeVelocity );
-			//			velocity += relativeVelocity;
-			//		}
-			//	}
-			//}
+			// var neighbors = Physics.boxcastBroadphaseExcludingSelf( _collider, _collider.collidesWithLayers );
+			// foreach( var neighbor in neighbors )
+			// {
+			// 	// if the neighbor collider is of the same entity, ignore it
+			// 	if( neighbor.entity == gameObject )
+			// 	{
+			// 		continue;
+			// 	}
+			//
+			// 	_collider.ClosestPointOnBounds
+			//
+			// 	if( _collider.collidesWith( neighbor, out collisionResult ) )
+			// 	{
+			// 		// if the neighbor has an ArcadeRigidbody we handle full collision response. If not, we calculate things based on the
+			// 		// neighbor being immovable.
+			// 		var neighborRigidbody = neighbor.entity.getComponent<ArcadeRigidbody>();
+			// 		if( neighborRigidbody != null )
+			// 		{
+			// 			processOverlap( neighborRigidbody, ref collisionResult.minimumTranslationVector );
+			// 			processCollision( neighborRigidbody, ref collisionResult.minimumTranslationVector );
+			// 		}
+			// 		else
+			// 		{
+			// 			// neighbor has no ArcadeRigidbody so we assume its immovable and only move ourself
+			// 			transform.position -= collisionResult.minimumTranslationVector;
+			// 			var relativeVelocity = velocity;
+			// 			calculateResponseVelocity( ref relativeVelocity, ref collisionResult.minimumTranslationVector, out relativeVelocity );
+			// 			velocity += relativeVelocity;
+			// 		}
+			// 	}
+			// }
 		}
 
 		/// <summary>

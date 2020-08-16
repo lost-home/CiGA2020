@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d71bbaddb794d128aa7d0fea433ac37, type: 3}
+  m_Name: Scenario_Troublemaker
+  m_EditorClassIdentifier: 
+  conditions:
+    list:
+    - id: -1479100416
+      name: HasExpressPackage
+      type:
+        _classRef: Nez.AI.GOAP.IsHandHasExpressPackage, Assembly-CSharp
+      typeData: "{\n  \"gameObject\": null,\n  \"transform\": null,\n  \"agent\":
+        null\n}"
+    - id: -803405312
+      name: EscapePointInRange
+      type:
+        _classRef: Nez.AI.GOAP.CheckTargetInRange, Assembly-CSharp
+      typeData: "{\n  \"KEY_Target\": \"EscapePoint\",\n  \"KEY_RANGE_X\": \"StealRangeX\",\n 
+        \"KEY_RANGE_Y\": null,\n  \"gameObject\": null,\n  \"transform\": null,\n 
+        \"agent\": null\n}"
+    - id: 693432320
+      name: GeneratorPointInRange
+      type:
+        _classRef: Nez.AI.GOAP.CheckTargetInRange, Assembly-CSharp
+      typeData: "{\n  \"KEY_Target\": \"ExpressPackageGenerator\",\n  \"KEY_RANGE_X\":
+        \"StealRangeX\",\n  \"KEY_RANGE_Y\": \"\",\n  \"gameObject\": null,\n  \"transform\":
+        null,\n  \"agent\": null\n}"
+    - id: 172786688
+      name: PlayerHasExpressPackage
+      type:
+        _classRef: Nez.AI.GOAP.IsTargetHandHasExpressPackage, Assembly-CSharp
+      typeData: "{\n  \"KEY_Target\": \"Player\",\n  \"gameObject\": null,\n  \"transform\":
+        null,\n  \"agent\": null\n}"
+    - id: -628304384
+      name: PlayerInRangeX
+      type:
+        _classRef: Nez.AI.GOAP.CheckTargetInRange, Assembly-CSharp
+      typeData: "{\n  \"KEY_Target\": \"Player\",\n  \"KEY_RANGE_X\": \"StealRangeX\",\n 
+        \"KEY_RANGE_Y\": \"\",\n  \"gameObject\": null,\n  \"transform\": null,\n 
+        \"agent\": null\n}"
+    - id: -985722880
+      name: PlayerInRangeY
+      type:
+        _classRef: Nez.AI.GOAP.CheckTargetInRange, Assembly-CSharp
+      typeData: "{\n  \"KEY_Target\": \"Player\",\n  \"KEY_RANGE_X\": \"\",\n  \"KEY_RANGE_Y\":
+        \"StealRangeY\",\n  \"gameObject\": null,\n  \"transform\": null,\n  \"agent\":
+        null\n}"
+    - id: -984665088
+      name: WorldHasAvailableExpressPackage
+      type:
+        _classRef: Nez.AI.GOAP.WorldHasAvailableExpressPackage, Assembly-CSharp
+      typeData: "{\n  \"includePlayerHand\": false,\n  \"gameObject\": null,\n  \"transform\":
+        null,\n  \"agent\": null\n}"
+    - id: 1174862336
+      name: AnyAvailableExpressPackageInRange
+      type:
+        _classRef: Nez.AI.GOAP.AnyAvailableExpressPackageInRange, Assembly-CSharp
+      typeData: "{\n  \"includePlayerHand\": false,\n  \"KEY_RANGE_X\": \"StealRangeX\",\n 
+        \"KEY_RANGE_Y\": \"StealRangeY\",\n  \"gameObject\": null,\n  \"transform\":
+        null,\n  \"agent\": null\n}"
+    - id: 1761755136
+      name: StealCDReady
+      type:
+        _classRef: Nez.AI.GOAP.CheckEnemyTimeLayerInterval, Assembly-CSharp
+      typeData: "{\n  \"key\": \"StealCD\",\n  \"checkType\": 3,\n  \"value\": 0.0,\n 
+        \"gameObject\": null,\n  \"transform\": null,\n  \"agent\": null\n}"
+  actions:
+  - name: StealPackage
+    cost: 0
+    isOpened: 0
+    isActived: 1
+    pre:
+    - id: -1479100416
+      value: 0
+    - id: 172786688
+      value: 1
+    - id: -628304384
+      value: 1
+    - id: -985722880
+      value: 1
+    - id: 1761755136
+      value: 1
+    post:
+    - id: -1479100416
+      value: 1
+    - id: 172786688
+      value: 0
+    - id: -984665088
+      value: 1
+    - id: 1174862336
+      value: 1
+  - name: PickupPackage
+    cost: 0
+    isOpened: 0
+    isActived: 1
+    pre:
+    - id: -1479100416
+      value: 0
+    - id: 1174862336
+      value: 1
+    post:
+    - id: -1479100416
+      value: 1
+  - name: DropPackage
+    cost: 0
+    isOpened: 0
+    isActived: 1
+    pre:
+    - id: -1479100416
+      value: 1
+    post:
+    - id: -1479100416
+      value: 0
+  - name: MoveToAvailableExpressPackage
+    cost: 0
+    isOpened: 0
+    isActived: 1
+    pre:
+    - id: -984665088
+      value: 1
+    - id: 1174862336
+      value: 0
+    post:
+    - id: 1174862336
+      value: 1
+  - name: MoveToGeneratorPoint
+    cost: 1
+    isOpened: 0
+    isActived: 1
+    pre:
+    - id: 693432320
+      value: 0
+    post:
+    - id: 693432320
+      value: 1
+  - name: MoveToPlayer
+    cost: 0
+    isOpened: 0
+    isActived: 1
+    pre:
+    - id: -628304384
+      value: 0
+    post:
+    - id: -628304384
+      value: 1
+  - name: Jump
+    cost: 0
+    isOpened: 0
+    isActived: 1
+    pre:
+    - id: -985722880
+      value: 0
+    post:
+    - id: -985722880
+      value: 1
+  - name: LaunchGenerator
+    cost: 2
+    isOpened: 1
+    isActived: 0
+    pre:
+    - id: 693432320
+      value: 1
+    post:
+    - id: -984665088
+      value: 1
+  - name: Escape
+    cost: 0
+    isOpened: 0
+    isActived: 1
+    pre:
+    - id: -1479100416
+      value: 1
+    - id: -803405312
+      value: 0
+    post:
+    - id: -803405312
+      value: 1
+  goals:
+  - name: Disturb the player
+    isOpened: 1
+    conditions:
+    - id: -1479100416
+      value: 1
+    - id: -803405312
+      value: 1
