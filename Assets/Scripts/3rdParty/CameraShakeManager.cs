@@ -119,24 +119,24 @@ public class CameraShakeManager : MonoBehaviour
 	/// </summary>
 	/// <param name="shakeEvt"></param>
 	public void AddShake( string shakeEvent ) {
-		// CameraShake.ShakeType shakeType;
-		// CameraShake.NoiseType noiseType;
-		// Vector3 moveExt;
-		// float speed;
-		// float duration;
-		//
-		// ParseUtil.ParseShakeEvent ( shakeEvent, out shakeType, out noiseType, out moveExt, out speed, out duration );
-		//
-		// var shakeInstance = new GameObject ( shakeEvent ).AddComponent<CameraShake> ();
-		//
-		// shakeInstance.Shake = shakeType;
-		// shakeInstance.Noise = noiseType;
-		// shakeInstance.MoveExtents = moveExt;
-		// shakeInstance.RotateExtents = Vector3.zero;
-		// shakeInstance.Speed = speed;
-		// shakeInstance.Duration = duration;
-		//
-		// AddShake ( shakeInstance );
+		CameraShake.ShakeType shakeType;
+		CameraShake.NoiseType noiseType;
+		Vector3 moveExt;
+		float speed;
+		float duration;
+		
+		ParseShakeEvent ( shakeEvent, out shakeType, out noiseType, out moveExt, out speed, out duration );
+		
+		var shakeInstance = new GameObject ( shakeEvent ).AddComponent<CameraShake> ();
+		
+		shakeInstance.Shake = shakeType;
+		shakeInstance.Noise = noiseType;
+		shakeInstance.MoveExtents = moveExt;
+		shakeInstance.RotateExtents = Vector3.zero;
+		shakeInstance.Speed = speed;
+		shakeInstance.Duration = duration;
+		
+		AddShake ( shakeInstance );
 	}
 
     /// <summary>
@@ -174,6 +174,35 @@ public class CameraShakeManager : MonoBehaviour
 
 		//Debug.Log ( $"CameraShakeManager::AffirmShakeManager() 实例 {Instance.transform.GetPath()}" );
 		return ins;
+	}
+	
+	/// <summary>
+	/// 解析CameraShake事件字符串
+	/// "camera_shake 2 0 1.5,0.3 4 0.2"
+	/// </summary>
+	static public void ParseShakeEvent ( string                    evt,       out CameraShake.ShakeType shakeType,
+	                                     out CameraShake.NoiseType noiseType, out Vector3               moveExt,
+	                                     out float                 speed,
+	                                     out float                 duration ) {
+		// 参数使用空白分割
+		var args = evt.Split ( ' ' );
+
+		try {
+			// 参数0是指令参数，通常为camera_shake
+			shakeType = ( CameraShake.ShakeType ) ParseUtil.ParseInt ( args [ 1 ] );
+			noiseType = ( CameraShake.NoiseType ) ParseUtil.ParseInt ( args [ 2 ] );
+			moveExt   = ParseUtil.ParseVector2 ( args [ 3 ] );
+			speed     = ParseUtil.ParseFloat ( args [ 4 ] );
+			duration  = ParseUtil.ParseFloat ( args [ 5 ] );
+		}
+		catch ( System.Exception ex ) {
+			shakeType = CameraShake.ShakeType.Constant;
+			noiseType = CameraShake.NoiseType.Perlin;
+			moveExt   = default ( Vector3 );
+			speed     = 0f;
+			duration  = 0f;
+			Debug.LogError ( $"解析CameraShake事件字符串失败:{evt}" );
+		}
 	}
 
 	/// <summary>
